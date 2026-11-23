@@ -8,5 +8,5 @@ Api/utils/__pycache__
 env/
 .idea/
 .gitignore
-config.bat
 node_modules
+config.bat
